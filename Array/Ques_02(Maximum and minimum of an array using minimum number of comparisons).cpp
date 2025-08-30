@@ -15,6 +15,8 @@ class Solution {
     }
 };
 
+//or
+
 class Solution {
   public:
     pair<int, int> getMinMax(vector<int> arr) {
