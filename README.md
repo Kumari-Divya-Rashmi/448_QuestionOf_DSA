@@ -54,7 +54,7 @@ The goal is to build strong problem-solving skills, prepare for coding interview
 
 | Topic                | Total Qs | Solved | Pending |
 |----------------------|----------|--------|---------|
-| Arrays               | 36       | 01     | 36      |
+| Arrays               | 36       | 03     | 33      |
 | Matrix               | 10       | 0      | 10      |
 | Strings              | 43       | 0      | 43      |
 | Searching & Sorting  | 36       | 0      | 36      |
@@ -70,7 +70,7 @@ The goal is to build strong problem-solving skills, prepare for coding interview
 | Dynamic Programming  | 60       | 0      | 60      |
 | Bit Manipulation     | 10       | 0      | 10      |
 
-| **Total**            | **450**  | **01**  | **450** |
+| **Total**            | **448**  | **03**  | **445** |
 
 
 
@@ -85,7 +85,8 @@ The goal is to build strong problem-solving skills, prepare for coding interview
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<Kumari-Divya-Rashmi>/DSA-450-Sheet.git
+   git clone https://github.com/Kumari-Divya-Rashmi/448_QuestionOf_DSA.git
+
 
 
 
