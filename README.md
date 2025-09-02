@@ -54,7 +54,7 @@ The goal is to build strong problem-solving skills, prepare for coding interview
 
 | Topic                | Total Qs | Solved | Pending |
 |----------------------|----------|--------|---------|
-| Arrays               | 36       | 03     | 33      |
+| Arrays               | 36       | 07     | 29      |
 | Matrix               | 10       | 0      | 10      |
 | Strings              | 43       | 0      | 43      |
 | Searching & Sorting  | 36       | 0      | 36      |
@@ -70,7 +70,7 @@ The goal is to build strong problem-solving skills, prepare for coding interview
 | Dynamic Programming  | 60       | 0      | 60      |
 | Bit Manipulation     | 10       | 0      | 10      |
 
-| **Total**            | **448**  | **03**  | **445** |
+| **Total**            | **448**  | **07**  | **441** |
 
 
 
